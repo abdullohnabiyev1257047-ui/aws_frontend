@@ -1,6 +1,6 @@
 import { useState, useEffect } from "react";
 
-const API = "http://localhost:3005";
+const API = "http://13.61.177.47:3005/";
 
 function PostCard({ post, index }) {
   return (
