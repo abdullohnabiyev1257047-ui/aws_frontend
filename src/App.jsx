@@ -135,7 +135,7 @@ export default function App() {
         <div className="header-content">
           <div className="logo">
             <span className="logo-dot" />
-            <span className="logo-text">PostFeed</span>
+            <span className="logo-text">Kiyim do'koni</span>
           </div>
           <p className="header-sub">Dunyodan eng so'nggi maqolalar</p>
         </div>
